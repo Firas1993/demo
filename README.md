@@ -1,2 +1,2 @@
 # demo
-demo reposatory
+This is as a demo for my github and git training
